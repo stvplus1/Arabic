@@ -1,11 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
+https://stream.veo.buzz:6058/enter/ch3/ch3_720.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
+https://stream.veo.buzz:6058/enter/ch3/ch3_360.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+https://stream.veo.buzz:6058/enter/ch3/ch3_240.m3u8
