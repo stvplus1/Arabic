@@ -1,1 +1,7 @@
-kurd
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://stream.supertv.gg:3001/supertv/sport/stv10/ch10/ch10_1080.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://stream.supertv.gg:3001/supertv/sport/stv10/ch10/ch10_720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://stream.supertv.gg:3001/supertv/sport/stv10/ch10/ch10_360.m3u8
