@@ -4,4 +4,4 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_720p_ts/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://stream.veo.buzz:6084/sport/ch15/ch15_480.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_480p_ts/index-1.m3u8
