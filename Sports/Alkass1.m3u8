@@ -5,5 +5,5 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_720p_ts/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_480p_ts/index-1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,0.96Mbps
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_360p_ts/index-1.m3u8
