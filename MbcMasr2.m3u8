@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=2400x1080,FRAME-RATE=50.000,AUDIO="program_audio_0"
+#EXT-X-MEDIA:LANGUAGE="ara",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",GROUP-ID="audio_0",DEFAULT=NO,NAME="ara"
+#EXT-X-MEDIA:LANGUAGE="kur",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",GROUP-ID="audio_0",DEFAULT=NO,NAME="eng"
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.640028",AVERAGE-BANDWIDTH=5640800,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=6520800,AUDIO="audio_0"
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401E",AVERAGE-BANDWIDTH=690764,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=778771,AUDIO="audio_0"
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/468p750kbps/video.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="kur",NAME="Kurdish",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8"
