@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.640028",AVERAGE-BANDWIDTH=5640800,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=6520800,AUDIO="audio_0"
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401E",AVERAGE-BANDWIDTH=690764,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=778771,AUDIO="audio_0"
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401E",AVERAGE-BANDWIDTH=1130764,RESOLUTION=854x480,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1289171,AUDIO="audio_0"
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8
