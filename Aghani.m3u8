@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://cdn.streamlane.tv/hls/aghanitv/1_0/index.m3u8?tkn=2073271500
