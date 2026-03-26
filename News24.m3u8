@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_720p/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_720p/chunks.m3u8
