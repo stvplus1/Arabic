@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://stream.panet.com/edge/halaTV/chunks.m3u8?nimblesessionid=193239526
+
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720
+https://stream.panet.com/edge/halaTV/chunks.m3u8?nimblesessionid=193239526
