@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://i24newsarabic-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720
+https://i24newsarabic-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
